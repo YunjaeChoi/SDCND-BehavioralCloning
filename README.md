@@ -5,18 +5,6 @@ Outputs:
 - Track 1
 <!-- blank line -->
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="output_videos/run1.mp4" type="video/mp4">
-  </video>
+  <iframe src="https://youtu.be/B3hjuE58Mbg" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
-
-- Track 2
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="output_videos/run2.mp4" type="video/mp4">
-  </video>
-</figure>
-<!-- blank line -->
-
