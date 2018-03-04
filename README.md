@@ -1,7 +1,8 @@
 # SDCND-BehavioralCloning
 
 Behavioral Cloning using CNN in simulation. Part of Udacity Self Driving Car Nanodegree.
-Outputs:
+
+Model video:
 - Track 1
 
 [![](http://img.youtube.com/vi/4tAcvT9Bh-U/0.jpg)](http://www.youtube.com/watch?v=4tAcvT9Bh-U "")
